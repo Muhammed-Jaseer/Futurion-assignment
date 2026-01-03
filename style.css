@@ -127,6 +127,7 @@ font-size: 18px;
 }
 .under3 > .a > p{
   color: gray;
+  font-size: 15px;
   
 }
 .blue-underline2{
@@ -134,7 +135,7 @@ font-size: 18px;
   height: 4px;
   background-color: #276EF1;
   margin-top: 5px;
-  margin-left:185px;
+   margin-left:140px;
   
 }
 
@@ -145,6 +146,7 @@ font-size: 18px;
 transition: transform 0.3s ease, box-shadow 0.3s ease;
 padding-left: 30px;
   padding-right:30px ;
+  
 }
 
 .homecard1:hover{
@@ -227,10 +229,11 @@ padding-left: 30px;
 .hometext > h3{
 color: #0B3CC1;
 font-weight: bold;
+text-align: left;
 }
 .hometext > p{
   color: gray;
-  text-align: center;
+  text-align: left;
 }
 
 .homecard6{
