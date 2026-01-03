@@ -259,6 +259,7 @@ transition: transform 0.3s ease, box-shadow 0.3s ease;
 .homecard6button{
   color: #0B3CC1;
   width: 240px;
+  object-fit: cover;
   
 }
 .under4b > .row > .col-sm-6{
