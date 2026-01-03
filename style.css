@@ -143,8 +143,8 @@ font-size: 18px;
   width: 100%;
   border: none;
 transition: transform 0.3s ease, box-shadow 0.3s ease;
-padding-left: 50px;
-  padding-right:50px ;
+padding-left: 30px;
+  padding-right:30px ;
 }
 
 .homecard1:hover{
@@ -158,8 +158,8 @@ padding-left: 50px;
   border: none;
   margin-top: 18px;
  transition: transform 0.3s ease, box-shadow 0.3s ease;
-padding-left: 50px;
-  padding-right:50px ;
+padding-left: 30px;
+  padding-right:30px ;
 }
 .homecard2:hover{
   transform: scale(1.05);
@@ -172,8 +172,8 @@ padding-left: 50px;
   border: none;
   margin-top: 18px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-padding-left: 50px;
-  padding-right:50px ;
+padding-left: 30px;
+  padding-right:30px ;
 }
 .homecard3:hover{
   transform: scale(1.05);
@@ -185,8 +185,8 @@ padding-left: 50px;
   width: 100%;
   border: none;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-padding-left: 50px;
-  padding-right:50px ;
+padding-left: 30px;
+  padding-right:30px ;
 }
 .homecard4:hover{
   transform: scale(1.05);
@@ -199,8 +199,8 @@ padding-left: 50px;
   border: none;
   margin-top: 18px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-padding-left: 50px;
-  padding-right:50px ;
+padding-left: 30px;
+  padding-right:30px ;
 }
 .homecard5:hover{
   transform: scale(1.05);
@@ -237,8 +237,8 @@ font-weight: bold;
   margin-top: 25px;
   height: 235px;
   width: 100%;
-  padding-left: 50px;
-  padding-right:50px ;
+  padding-left: 30px;
+  padding-right:0px ;
   border: none;
 background-color: #276EF1;
 transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -259,7 +259,7 @@ transition: transform 0.3s ease, box-shadow 0.3s ease;
 .homecard6button{
   color: #0B3CC1;
   width: 285px;
-  margin-top: 15px;
+  
 }
 .under4b > .row > .col-sm-6{
   display: flex;
@@ -337,8 +337,8 @@ justify-content: space-between;
 }
 .under5a > .row > .col-sm-6 > .card1{
   height: 100px;
-  width:200px;
-  margin-left: 20px;
+  width:150px;
+  margin-left: 5px;
     box-shadow:4px 4px 5px 5px #f4f0f0fd;
     border:none;
   
@@ -349,8 +349,8 @@ justify-content: space-between;
 }
 .under5a > .row > .col-sm-6 > .card1a{
   height: 100px;
-  width:200px;
-  margin-right: 20px;
+  width: 150px;
+  margin-right: 5px;
     box-shadow:4px 4px 5px 5px #f4f0f0fd;
     border: none;
 }
