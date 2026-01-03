@@ -39,10 +39,11 @@ text-decoration: none;
     height: 650px;
     object-fit: cover;
 }
-.videotext{
+.videotext2{
     color: white;
     text-align: left;
-    font-size: 20px;
+    font-size: 22px;
+
   }
 
 .videobtn{
@@ -578,8 +579,9 @@ text-align: center;
     font-family:'Times New Roman', Times, serif;
     font-size: 50px;
 }
-.videotext{
+.videotext1{
     color: white;
+    font-size: 16px;
 }
 .card > video{
     object-fit: cover;
@@ -1076,4 +1078,15 @@ height: 55px;
 .under5a{
     display: none;
 }
+}
+@media only screen and (max-width: 600px) {
+.videotext1{
+    display: none;
+}
+}
+
+@media only screen and (min-width: 992px){
+  .videotext2{
+    display: none;
+  }
 }
